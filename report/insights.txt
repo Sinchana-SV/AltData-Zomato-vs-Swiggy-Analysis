@@ -1,0 +1,10 @@
+ZOMATO ANALYSIS
+Average Rating: 4.3
+Total Reviews: 1022648.0
+Total Installs: 20000000.0
+
+MARKET TRENDS
+Latest Zomato Interest: 13
+Latest Swiggy Interest: 13
+Zomato Growth: -3
+Swiggy Growth: -2
